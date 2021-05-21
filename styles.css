@@ -76,7 +76,13 @@ body {
   
 .pack-text{
     padding: 2.5rem;
-    width: 100%;
+    width: 50%;
+}
+
+@media only screen and (max-width: 768px) {
+    .pack-text {
+        width: 100%;
+    }
 }
 
 .pack-image {
