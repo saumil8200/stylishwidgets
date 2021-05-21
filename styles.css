@@ -37,12 +37,9 @@ body {
 }
 
 .title-desc {
-  position: absolute;
   font-size: medium;
   font-weight: normal;
   color: #232323;
-  left: 2%;
-  bottom: 0%;
 }
 
 @media only screen and (max-width: 768px) {
